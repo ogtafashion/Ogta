@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ogtafashion.github.io/Ogta/sitemap.xml
